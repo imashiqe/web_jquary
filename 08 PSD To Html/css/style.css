@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,ol{
+    list-style-type: : none;
+}
+
+.clr {
+    
+    clear: both ;
+}
+
+.full-wrapper{
+    width: 100%;
+}
+
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+/*All common css end*/
+
+/*header part start*/
+
+.header{
+    height: 100%;
+    background: #1a1515;
+}
+
+.logo {
+    width: 270px;
+    float: left;
+    
+}
+.logo img{
+    padding-top: 35px;
+}
+.menu{
+    width: 900px; 
+    float: left;
+    text-align: right;
+}
+.menu ul li {
+    display: inline-block; 
+}
+
+.menu ul li a{
+    color: #fff;
+    padding-left: 40px;  
+    text-transform: uppercase;
+    line-height: 90px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.menu ul li a:hover{
+      color: aqua;
+    transition: all linear .3s;
+}
+/*header part end*/
+
+
+/*banner start*/
+
+.banner-bg{
+    background: url(../css/image/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 360px;
+    padding-bottom: 250px;
+}
+
+.banner-text{
+    text-align: center;
+}
+.banner-text h2 {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.banner-text h3 {
+    color: white;
+    font-size: 40px;
+    font-weight: 300;
+    text-transform: uppercase;
+   font-family: 'Roboto Slab', serif;
+}
+
+.banner-text p {
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'Roboto Slab', serif;
+}
+/*banner end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

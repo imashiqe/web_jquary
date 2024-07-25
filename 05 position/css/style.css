@@ -1,0 +1,295 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.clr {
+    clear: both;
+
+}
+
+
+
+
+
+
+/*All common css end*/
+
+
+
+
+.main {
+    height: 800px;
+    width: 1170px;
+    margin: 0 auto;
+
+  
+    position: relative;
+}
+
+/*one*/
+.one {
+    height: 150px;
+    width: 300px;
+    background: #791525;
+    position: absolute;
+    top: 10px;
+    right: 0;
+
+}
+
+.one-1 {
+    height: 15px;
+    width: 300px;
+    background: #f8eff0;
+    position: absolute;
+    top: 10px;
+
+}
+
+.one-2 {
+    height: 15px;
+    width: 300px;
+    background: #f8eff0;
+    position: absolute;
+    top: 40px;
+
+}
+
+.one-3 {
+    height: 15px;
+    width: 300px;
+    background: #f8eff0;
+    position: absolute;
+    top: 70px;
+
+}
+
+.one-4 {
+    height: 15px;
+    width: 300px;
+    background: #f8eff0;
+    position: absolute;
+    top: 100px;
+
+}
+
+.one-5 {
+    height: 15px;
+    width: 300px;
+    background: #f8eff0;
+    position: absolute;
+    top: 130px;
+}
+
+.one-6 {
+    height: 75px;
+    width: 150px;
+    background: #2424a7;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.one-7 {
+    height: 400px;
+    width: 10px;
+    background: #5d3513;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.one-7-1 {
+    height: 20px;
+    width: 50px;
+    background: #5d3513;
+    position: absolute;
+    bottom: 0;
+    border-radius: 30%;
+    transform: translatex(-50%)
+}
+
+/*one end */
+
+
+.two {
+    height: 150px;
+    width: 300px;
+    background: #f8f3f4;
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+.two-1 {
+    height: 30px;
+    width: 300px;
+    background: #893340;
+    position: absolute;
+    left: 0;
+    top: 55px;
+
+
+
+}
+
+.two-2 {
+    height: 150px;
+    width: 30px;
+    background: #893340;
+    position: absolute;
+    right: 150px;
+    top: 0px;
+    float: left;
+}
+
+.two-3 {
+    height: 400px;
+    width: 10px;
+    background: #5d3513;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.two-3-1 {
+    height: 20px;
+    width: 50px;
+    background: #5d3513;
+    position: absolute;
+    bottom: 0;
+    border-radius: 30%;
+    transform: translatex(-50%)
+}
+
+/*two end*/
+
+.three {
+    height: 150px;
+    width: 300px;
+    background: #175f06;
+    position: absolute;
+    bottom: 400px;
+    left: 100px;
+}
+
+.three-1{
+    height: 100px;
+    width:100px;
+    background: #d4203c;
+    position: absolute;
+    top: -15%;
+    left: 50%;
+    border-radius: 50%;
+    bottom: 50px;
+    transform: translate(-50%,50%) 
+}
+.three-2{
+     height: 400px;
+    width: 10px;
+    background: #5d3513;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.three-2-1{
+       height: 20px;
+    width: 50px;
+    background: #5d3513;
+    position: absolute;
+    bottom: 0;
+    border-radius: 30%;
+    transform: translatex(-50%)
+}
+/*threeend*/
+
+.four {
+    height: 150px;
+    width: 300px;
+    background: #175f06;
+    position: absolute;
+    bottom: 200px;
+    right: 100px;
+}
+
+.four-1{
+    height: 100px;
+    width:100px;
+    background: #fcf3f5;
+    position: absolute;
+    top: -15%;
+    left: 50%;
+    border-radius: 50%;
+    bottom: 50px;
+    transform: translate(-50%,50%) 
+}
+.four-2{
+     height: 400px;
+    width: 10px;
+    background: #5d3513;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.four-2-1{
+       height: 20px;
+    width: 50px;
+    background: #5d3513;
+    position: absolute;
+    bottom: 0;
+    border-radius: 30%;
+    transform: translatex(-50%)
+}
+
+
+.four-1-1{
+      height: 90px;
+    width:90px;
+    background: #175f06;
+    position: absolute;
+    top: -47%;
+    left: 50%;
+    border-radius: 50%;
+    bottom: 50px;
+    transform: translate(-50%,50%) 
+}
+.four-3{
+    height:150px;
+    width: 80px;
+    background: #d8d2d2;
+    position: absolute;
+    top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

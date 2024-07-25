@@ -1,0 +1,901 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+.clr {
+    clear: both;
+}
+
+/*all common css end */
+
+.topdiv {
+    height: 32px;
+    width: 1020px;
+    background: #0872b9;
+    margin: 0 auto;
+    position: relative;
+}
+
+.welcome {
+    height: 32px;
+    width: 500px;
+
+    position: absolute;
+}
+
+.welcome p {
+
+
+    position: absolute;
+    left: 38px;
+    top: 7px;
+    color: aliceblue;
+}
+
+.social {
+    height: 32px;
+    width: 500px;
+
+    position: absolute;
+    right: 20px;
+    float: left;
+}
+
+.social p {
+	position: absolute;
+	right: 141px;
+	top: 7px;
+	color: aliceblue;
+}
+.social m {
+	position: absolute;
+	right: 115px;
+	top: 7px;
+	color: aliceblue;
+}
+
+
+.social pin {
+	position: absolute;
+	right: 94px;
+	top: 7px;
+	color: aliceblue;
+}
+
+.social behance {
+	position: absolute;
+	right: 70px;
+	top: 7px;
+	color: aliceblue;
+}
+
+/*todiv end */
+
+.toptwo {
+	height: 76px;
+	width: 1020px;
+
+	margin: 0 auto;
+	position: relative;
+}
+
+
+.logo{
+		height: 76px;
+	width: 510px;
+
+	margin: 0 auto;
+	position: relative;
+	float: left;
+}	
+
+.logo img {
+	position: absolute;
+	left: 40px;
+	top: 16px;
+}
+
+.menu {
+		height: 76px;
+	width: 510px;
+
+	margin: 0 auto;
+	position: relative;
+	float: left;
+}	
+
+
+
+.menu ul li {
+    display: inline-block;
+    position: relative
+}
+
+.menu ul li a {
+	padding: 0 15px;
+
+	color: #0f0000;
+	text-transform: uppercase;
+	line-height: 60px;
+	transition: all linear .6s;
+	font-size: 11px;
+
+}
+
+.menu ul li a:hover {
+    background: #ddbe16;
+    display: block;
+
+}
+
+.banner{
+	 height: 400px;
+    width: 1020px;
+    background: #ddbe16;
+    margin: 0 auto;
+    position: relative;
+}
+
+.banner {
+    background: url(../css/image/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1020px;
+	height: 400px;
+    margin: 0 auto;
+	position: relative;
+
+
+}
+
+.overly {
+	background: rgb(15, 0, 0);
+	opacity:60%;
+	padding-top: 200px;
+	padding-bottom:200px;
+    text-align: right;
+	
+	position: relative;
+	
+}
+
+
+
+
+
+
+
+.about{
+ 
+    height: 429px;
+    width: 1020px;
+
+    margin: 0 auto;
+    position: relative;
+}
+
+.about img {
+	position: absolute;
+	top: 126px;
+	left: 41px;
+}
+
+.about h1 {
+	position: absolute;
+	left: 452px;
+	top: 50px;
+	font-size: 24px;
+}
+
+.about p {
+	position: absolute;
+	left: 456px;
+	top: 192px;
+	font-size: 16px;
+}
+
+.about p2 {
+	position: absolute;
+	left: 454px;
+	top: 296px;
+	font-size: 16px;
+}
+
+/*our service*/
+
+.our {
+    height: 305px;
+    width: 1020px;
+   
+    margin: 0 auto;
+    position: relative;
+}
+.our h1 {
+	position: absolute;
+	left: 434px;
+	top: -16px;
+	font-size: 24px;
+}
+
+/*graphics-1*/
+.graphics-1 {
+	position: absolute;
+	height: 172px;
+	width: 300px;
+	background: #e6e6e6;
+	left: 35px;
+	top: 65px;
+}
+.gol {
+	position: absolute;
+	height: 85px;
+	width: 85px;
+	background: #fffefe;
+	top: -40px;
+	left: 110px;
+	border-radius: 85px;
+}
+
+.gol-1 {
+	position: absolute;
+	height: 78px;
+	width: 78px;
+	background: #e6e6e6;
+	top: 3px;
+	left: 4px;
+	border-radius: 78px;
+}
+
+.gol-1-1 {
+	position: absolute;
+	height: 70px;
+	width: 70px;
+	background: #fdfcfc;
+	top: 4px;
+	left: 4px;
+	border-radius: 70px;
+}
+
+.gol-1-1-1 {
+	position: absolute;
+	height: 65px;
+	width: 65px;
+	background: #e6e6e6;
+	top: 2px;
+	left: 2px;
+	border-radius: 65px;
+}
+
+.gol-1-1-1 pen {
+	position: absolute;
+	top: 14px;
+	left: 16px;
+}
+
+.graphics-1 gr {
+	position: absolute;
+	padding-left: 82px;
+	top: 52px;
+}
+.graphics-1 wr {
+	position: absolute;
+	padding-left: 21px;
+	top: 91px;
+	font-size: 13px;
+}
+/*graphics-1 end*/
+
+
+.graphics-2 {
+	position: relative;
+	height: 172px;
+	width: 300px;
+	background: #e6e6e6;
+	left: 364px;
+	top: 65px;
+}
+
+
+
+.cc{
+	position: absolute;
+	height: 85px;
+	width: 85px;
+	background: #fffefe;
+	top: -40px;
+	left: 110px;
+	border-radius: 85px;
+}
+.cc-1 {
+	position: absolute;
+	height: 78px;
+	width: 78px;
+	background: #e6e6e6;
+	top: 3px;
+	left: 4px;
+	border-radius: 78px;
+}
+
+.cc-1-1 {
+	position: absolute;
+	height: 70px;
+	width: 70px;
+	background: #fdfcfc;
+	top: 4px;
+	left: 4px;
+	border-radius: 70px;
+}
+
+.cc-1-1-1 {
+	position: absolute;
+	height: 65px;
+	width: 65px;
+	background: #5bc5f4;
+	top: 2px;
+	left: 2px;
+	border-radius: 65px;
+}
+
+.cc-1-1-1 com {
+	position: absolute;
+	top: 11px;
+	left: 12px;
+}
+
+.graphics-2 gr {
+	position: absolute;
+	padding-left: 82px;
+	top: 52px;
+}
+.graphics-2 wr {
+	position: absolute;
+	padding-left: 21px;
+	top: 91px;
+	font-size: 13px;
+}
+
+/*graphics-2 end*/
+
+
+.graphics-3 {
+	position: absolute;
+	height: 172px;
+	width: 300px;
+	background: #e6e6e6;
+	right: 27px;
+	top: 65px;
+}
+.graphics-3 gr {
+	position: absolute;
+	padding-left: 82px;
+	top: 52px;
+}
+.graphics-3 wr {
+	position: absolute;
+	padding-left: 21px;
+	top: 91px;
+	font-size: 13px;
+}
+
+.sr{
+	position: absolute;
+	height: 85px;
+	width: 85px;
+	background: #fffefe;
+	top: -40px;
+	left: 110px;
+	border-radius: 85px;
+}
+.sr-1 {
+	position: absolute;
+	height: 78px;
+	width: 78px;
+	background: #e6e6e6;
+	top: 3px;
+	left: 4px;
+	border-radius: 78px;
+}
+
+.sr-1-1 {
+	position: absolute;
+	height: 70px;
+	width: 70px;
+	background: #fdfcfc;
+	top: 4px;
+	left: 4px;
+	border-radius: 70px;
+}
+
+.sr-1-1-1 {
+	position: absolute;
+	height: 65px;
+	width: 65px;
+	background: #e6e6e6;
+	top: 2px;
+	left: 2px;
+	border-radius: 65px;
+}
+
+
+.sr-1-1-1 search {
+	position: absolute;
+	top: 11px;
+	left: 12px;
+}
+
+
+
+/*graphics-3 end*/
+
+/*our service end*/
+
+.protfolio {
+	height: 650px;
+	width: 1020px;
+	margin: 0 auto;
+	position: relative;
+	
+}
+.protfolio OURPORTFOLLIO {
+	position: absolute;
+	top: 0px;
+	left: 415px;
+	font-size: 24px;
+}
+
+.protfolio image01 {
+	position: absolute;
+	
+	top: 49px;
+	left: 33px;
+}
+
+.protfolio image02 {
+	position: absolute;
+
+	top: 296px;
+	left: 33px;
+}
+
+
+.protfolio image03 {
+	position: absolute;
+	
+	top: 49px;
+	left: 278px;
+}
+
+.protfolio image04 {
+	position: absolute;
+	
+	top: 376px;
+	left: 276px;
+}
+
+
+.protfolio image05 {
+	position: absolute;
+	top: 50px;
+	left: 523px;
+}
+
+.protfolio image06 {
+	position: absolute;
+	top: 298px;
+	left: 523px;
+}
+
+.protfolio image07 {
+	position: absolute;
+	top: 48px;
+	right: 33px;
+}
+.protfolio image08 {
+	position: absolute;
+	top: 379px;
+	right: 33px;
+}
+
+/*protfolio end */
+
+.ourteam {
+	height: 430px;
+	width: 1020px;
+	margin: 0 auto;
+	position: relative;
+	
+	
+}
+
+.ourteam Ourwrite{
+	position: absolute;
+	top: 0px;
+	left: 415px;
+	font-size: 24px;
+}
+
+
+
+.ourteam member01 {
+	position: absolute;
+	top: 48px;
+	left: 30px;
+}
+.ourteam member01 sajal {
+	position: absolute;
+	top: 274px;
+	left: 48px;
+	font-size: 15px;
+}
+.ourteam member01 quality {
+	position: absolute;
+	top: 292px;
+	left: 66px;
+	font-size: 13px;
+}
+
+
+
+.ourteam member02 {
+	position: absolute;
+	top: 49px;
+	left: 274px;
+}
+.ourteam member02 sajal {
+	position: absolute;
+	top: 274px;
+	left: 48px;
+	font-size: 15px;
+}
+.ourteam member02 quality {
+	position: absolute;
+	top: 292px;
+	left: 66px;
+	font-size: 13px;
+}
+
+.ourteam member03 {
+	position: absolute;
+	top: 44px;
+	left: 516px;
+}
+.ourteam member03 sajal {
+	position: absolute;
+	top: 278px;
+	left: 65px;
+	font-size: 15px;
+	color: #4698d0;
+}
+.ourteam member03 quality {
+	position: absolute;
+	top: 293px;
+	left: 65px;
+	font-size: 13px;
+}
+
+.ourteam member04 {
+	position: absolute;
+	top: 44px;
+	left: 770px;
+}
+
+.ourteam member04 sajal {
+	position: absolute;
+	top: 274px;
+	left: 63px;
+	font-size: 15px;
+}
+.ourteam member04 quality {
+	position: absolute;
+	top: 292px;
+	left: 66px;
+	font-size: 13px;
+}
+/*outteam end*/
+
+.testimonial{
+	
+	height: 430px;
+	width: 1020px;
+	margin: 0 auto;
+	position: relative;
+   
+	
+}
+
+.testimonial test {
+	position: absolute;
+	top: 0px;
+	left: 437px;
+	font-size: 24px;
+}
+
+.sahinalom {
+	position: absolute;
+	height: 175px;
+	width: 463px;
+	background: #e6e6e6;
+	left: 27px;
+	top: 194px;
+}
+
+
+.sahinalom name {
+	position: absolute;
+	top: 11px;
+	left: 158px;
+	font-size: 20px;
+}
+
+.sahinalom cr {
+	position: absolute;
+	top: 37px;
+	left: 194px;
+	font-size: 15px;
+}
+
+.sahinalom article {
+	position: absolute;
+	top: 60px;
+	left: 38px;
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+.mahadi {
+	position: absolute;
+	height: 175px;
+	width: 464px;
+	background: #e6e6e6;
+	right: 38px;
+	top: 194px;
+}
+
+.mahadi name {
+	position: absolute;
+	top: 11px;
+	left: 158px;
+	font-size: 20px;
+}
+
+.mahadi cr {
+	position: absolute;
+	top: 38px;
+	left: 185px;
+	font-size: 15px;
+}
+.mahadi article {
+	position: absolute;
+	top: 60px;
+	left: 38px;
+	font-size: 16px;
+}
+
+
+.testimonial s {
+	position: absolute;
+	top: 90px;
+	left: 217px;
+}
+.testimonial m {
+	position: absolute;
+	right: 230px;
+	top: 89px;
+}
+
+
+.foter{
+	height: 300px;
+	width: 1020px;
+	margin: 0 auto;
+	position: relative;
+	background:#353535;
+}
+
+.foter fotlogo {
+	position: absolute;
+	top: 30px;
+	left: 33px;
+}
+
+.fotterlorem {
+	position: absolute;
+	height: 105px;
+	width: 260px;
+	
+	left: 27px;
+	top: 194px;
+}
+.fotterlorem fotlr {
+	position: absolute;
+	top: -90px;
+	left: 12px;
+	font-size: 19px;
+	color: aliceblue;
+}
+.fotterlorem fotlr-2 {
+	position: absolute;
+	top: 30px;
+	left: 15px;
+	font-size: 19px;
+	color: aliceblue;
+}
+
+.contuct {
+	position: absolute;
+	height: 300px;
+	width: 300px;
+	left: 308px;
+	top: 0px;
+	
+}
+.contuct us {
+	position: absolute;
+	top: 38px;
+	left: 0px;
+	color: aliceblue;
+	font-size: 28px;
+}
+
+.contuct phone {
+	position: absolute;
+	top: 100px;
+	left: 36px;
+	color: aliceblue;
+	font-size: 22px;
+}
+
+.contuct phone-2 {
+	position: absolute;
+	top: 150px;
+	left: 36px;
+	color: aliceblue;
+	font-size: 22px;
+}
+
+.contuct Email {
+	position: absolute;
+	top: 200px;
+	left: 36px;
+	color: aliceblue;
+	font-size: 22px;
+}
+
+.photos {
+	position: absolute;
+	height: 300px;
+	width: 452px;
+	left: 570px;
+	top: 0px;
+	
+}
+
+.photos flickr {
+	position: absolute;
+	top: 38px;
+	left: 24px;
+	font-size: 24px;
+	color: aliceblue;
+}
+
+.photos fot1 {
+	position: absolute;
+	top: 95px;
+	left: 24px;
+}
+
+.photos fot2 {
+	position: absolute;
+	top: 95px;
+	left: 139px;
+}
+
+.photos fot3 {
+	position: absolute;
+	top: 95px;
+	left: 253px;
+}
+
+.photos fot4 {
+	position: absolute;
+	top: 206px;
+	left: 24px;
+}
+
+.photos fot5 {
+	position: absolute;
+	top: 206px;
+	left: 141px;
+}
+
+.photos fot6 {
+	position: absolute;
+	top: 206px;
+	left: 256px;
+}
+
+.futer{
+	height: 40px;
+	width: 1020px;
+	margin: 0 auto;
+	position: relative;
+	background: #555555;
+}
+.futer copyright {
+	position: absolute;
+	top: 17px;
+	left: 409px;
+	font-size: 14px;
+	color: aliceblue;
+}
+.futer name {
+	position: absolute;
+	top: 14px;
+	left: 630px;
+	font-size: 18px;
+	color: #79b7e0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
